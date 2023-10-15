@@ -24,7 +24,7 @@ I am looking for an internship!
     <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
 </p>
 <p>
-    JS and React I have been getting to know troughout the year. Diving into TypeScript and Next.js is in my plans for the upcoming months. Styling the front-end, whether it's just CSS or along a CSS framework is something I enjoy a lot.
+    JS and React I have been getting to know troughout the year. Diving into TypeScript and Next.js is in my plans for the upcoming months. Styling the front-end, whether it's just CSS or along a CSS framework like Bootstrap is something I enjoy a lot.
 </p>
 
 ### Back-end
