@@ -36,7 +36,7 @@ I am looking for an internship!
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"  />
 </p>
 <p>
-  Going from just the basics of PHP to Symfony to Drupal has not been easy. Mastering headless Drupal will be within my main focuses for the rest of the year. 
+  Going from just the basics of PHP to Symfony to Drupal has not been easy. Mastering headless Drupal with Next.js front end will be within my main focuses for the rest of the year. 
 </p>
 
 ### Testing
