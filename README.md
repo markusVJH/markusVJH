@@ -14,7 +14,7 @@ I am looking for an internship!
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"  />
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  />
-    <img alt="" src=""  />
+    <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=flat/square&logo=next.js&logoColor=white"  />
     <img alt="" src=""  />
     <img alt="" src=""  />
 </p>
@@ -24,7 +24,7 @@ I am looking for an internship!
     <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
 </p>
 <p>
-    JS and React I have been getting to know troughout the year. Diving into TypeScript and Next.js is in my plans for the upcoming months. Styling the front-end, whether it's just CSS or along a CSS framework like Bootstrap is something I enjoy a lot.
+    JS and React I have been getting to know troughout the year. Currently focusing on Nextjs, TypeScript and Tailwind on the frontend.
 </p>
 
 ### Back-end
@@ -36,7 +36,7 @@ I am looking for an internship!
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"  />
 </p>
 <p>
-  Going from just the basics of PHP to Symfony to Drupal has not been easy. Mastering headless Drupal with Next.js front end will be within my main focuses for the rest of the year. 
+  Going from just the basics of PHP to Symfony to Drupal has not been easy. Mastering headless Drupal with Next.js frontend is my main focus for the rest of 2023. 
 </p>
 
 ### Testing
