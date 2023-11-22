@@ -14,14 +14,14 @@ I am looking for an internship!
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"  />
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  />
-    <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=flat/square&logo=next.js&logoColor=white"  />
-    <img alt="" src=""  />
+    <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"  />
     <img alt="" src=""  />
 </p>
 <p>
     <img alt="CSS " src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
     <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"  />
     <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"  />
 </p>
 <p>
     JS and React I have been getting to know troughout the year. Currently focusing on Nextjs, TypeScript and Tailwind on the frontend.
