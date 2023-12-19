@@ -3,8 +3,6 @@ Hello,
 my name is Markus. I'm a Finnish guy hoping to one day become a professional programmer. 
 In January 2023 I began studying full stack web development at [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/) to pursue this goal.
 
-I am looking for an internship!
-
 #
 
 ### Front-end
