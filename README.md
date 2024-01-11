@@ -21,9 +21,6 @@ In January 2023 I began studying full stack web development at [Business College
     <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"  />
 </p>
-<p>
-    JS and React I have been getting to know troughout the year. Currently focusing on Nextjs, TypeScript and Tailwind on the frontend.
-</p>
 
 ### Back-end
 <p>
@@ -32,9 +29,6 @@ In January 2023 I began studying full stack web development at [Business College
   <img alt="Drupal" src="https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white"  />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square-&logo=mysql&logoColor=white"  />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"  />
-</p>
-<p>
-  Going from just the basics of PHP to Symfony to Drupal has not been easy. Mastering headless Drupal with Next.js frontend is my main focus for the rest of 2023. 
 </p>
 
 ### Testing
